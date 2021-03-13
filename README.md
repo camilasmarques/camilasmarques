@@ -8,5 +8,4 @@ I'm a software development student who loves the vastness of technology and who 
 I believe that if programming is the language of the future and I want to be part of this construction 👩‍💻
 
 <!--
-**camilasmarques/camilasmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![perfilgithub](https://user-images.githubusercontent.com/78444513/111034233-5e75c480-83f3-11eb-8e1e-d9083ac1e957.png)
+**camilasmarques/camilasmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
