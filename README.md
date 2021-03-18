@@ -7,7 +7,10 @@ I'm a software development student who loves the vastness of technology and who 
 
 I believe that if programming is the language of the future and I want to be part of this construction 👩‍💻
 
-https://github-readme-stats.vercel.app/api?username=camilasmarques&show_icons=true
+<a href="https://github.com/camilasmarques">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=camilasmarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=camilasmarques&layout=compact&langs_count=8&theme=dracula"/>
+<div>
 
 <!--
 **camilasmarques/camilasmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
