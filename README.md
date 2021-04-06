@@ -6,5 +6,3 @@ I'm a software development student who loves the vastness of technology and who 
 • Enthusiast about the best web & mobile development technologies;
 
 I believe that if programming is the language of the future and I want to be part of this construction 👩‍💻
-
-**camilasmarques/camilasmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!
