@@ -1,8 +1,8 @@
 ### Hi, Welcome ! 
 
-I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday! Enthusiast about the best web & mobile development technologies.
+I'm a software development student who loves the vastness of technology and who is always looking to be better than yesterday! Enthusiast about the best software development technologies.
 
-I believe that if programming is the language of the future and I want to be part of this construction 👩‍💻
+I believe that programming is the language of the future and I want to be part of this construction 👩‍💻
 
 <a href="https://github.com/camilasmarques">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilasmarques&theme=dracula&show_icons=true"/>
