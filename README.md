@@ -32,4 +32,6 @@ I believe that programming is the language of the future and I want to be part o
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilasmarques&theme=dracula&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasmarques&layout=compact&theme=dracula"/>
 <div>
-  
+ 
+[![Linkedin: camilasmarques](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camilasmarques)](https://www.linkedin.com/in/camilasmarques/)
+[![Medium: camilasmarques.dev](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://camilamarques-dev.medium.com/)](https://camilamarques-dev.medium.com/)
