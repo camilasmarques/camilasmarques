@@ -1,7 +1,7 @@
 ### Hi, Welcome ! 👋
 
-I'm a Software Developer who loves the vastness of technology and who is always looking to be better than yesterday! Enthusiast about the best software development technologies.
-
+I'm a Software Developer who loves the vastness of technology and who is always looking to be better than yesterday! 
+Enthusiast about the best software development technologies.
 I believe that programming is the language of the future and I want to be part of this construction 👩‍💻
 
 ## ⚡ Technologies and Tools
