@@ -24,7 +24,7 @@ I believe that programming is the language of the future and I want to be part o
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white)
 
 
-## ⚡ My GitHub informations 
+## ⚡ My GitHub Informations 
 
 <a href="https://github.com/camilasmarques">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilasmarques&theme=dracula&show_icons=true"/>
