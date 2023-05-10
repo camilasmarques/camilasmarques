@@ -1,6 +1,6 @@
 ### Hi, Welcome ! 👋
 
-I'm a Software Developer who loves the vastness of technology and who is always looking to be better than yesterday!
+I'm a Application Developer who loves the vastness of technology and who is always looking to be better than yesterday!
 
 Enthusiast about the best software development technologies.
 
