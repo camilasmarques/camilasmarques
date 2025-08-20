@@ -20,9 +20,3 @@ I believe that programming is the language of the future and I want to be part o
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-squaree&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## ⚡ My GitHub Informations 
-<a href="https://github.com/camilasmarques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilasmarques&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilasmarques&layout=compact&theme=dracula"/>
-<div>
